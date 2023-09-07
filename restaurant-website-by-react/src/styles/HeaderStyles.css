@@ -1,0 +1,40 @@
+.navigation-menu {
+	list-style: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.navigation-menu li {
+	margin: 0px 20px;
+}
+
+.navigation-menu li a {
+	text-decoration: none;
+	color: #fff;
+	margin-left: 50px;
+	font-size: 20px;
+}
+
+.active {
+	color: goldenrod !important;
+}
+
+
+/* Mobile view */
+.mobile-navigation {
+	list-style: none;
+}
+
+.mobile-navigation li {
+	margin-top: 20px;
+}
+
+.mobile-navigation li a {
+	display: block;
+	text-decoration: none;
+	font-size: 1.4rem;
+	font-weight: bold;
+	color: #1d1d1d;
+	padding: 5px;
+}

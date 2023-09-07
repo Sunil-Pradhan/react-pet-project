@@ -1,0 +1,24 @@
+body {
+	font-family: 'Inter', sans-serif;
+}
+
+
+.home-feature-img {
+	width: 500px;
+}
+
+.mt-50 {
+	margin-top: 50px;
+}
+
+.mb-100 {
+	margin-bottom: 100px;
+}
+
+.navbar-bg {
+	background: #d3d3d329;
+}
+
+.navbar-shadow {
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
