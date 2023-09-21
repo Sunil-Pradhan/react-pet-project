@@ -1,0 +1,24 @@
+React Router 
+json-server
+MUI
+MUI icons
+Axios 
+
+
+>>
+
+npm i react-router-dom
+//npm i json-server
+npm install -g json-server
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+npm i axios
+
+>>
+Start JSON Server
+
+json-server --watch db.json --port 3333
+
+
+"json-server": "json-server --watch db.json --port 3333",
+"start:dev": "concurrently \"npm start\" \"npm run json-server\""
