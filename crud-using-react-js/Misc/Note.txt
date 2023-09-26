@@ -1,0 +1,12 @@
+
+
+
+
+API : 
+https://mockapi.io/
+
+
+npm i axios
+npm i react-router-dom
+npm i bootstrap
+
